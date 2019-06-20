@@ -2,9 +2,9 @@ Name of QuantLet : Fast_Text_Visualization_Example
 
 Published in : Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
 
-Description : 'Visualization Example for the Fast Text Word Embeddings'
+Description : 'Visualization Example for the Fast Text Word Embeddings. Pretrained FastText word embeddings vectors in German language are used. Dimensionality reduction fromm 300 to 3 via PCA'
 
-Keywords : 'Machine Learning (ML), NLP, Textual Analysis'
+Keywords : 'Machine Learning (ML), NLP, Textual Analysis, Word Embeddings, SIF Embedding, FastText, PCA'
 
 Author : Marvin Gauer
 
