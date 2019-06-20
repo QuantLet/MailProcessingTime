@@ -1,0 +1,20 @@
+Name of QuantLet : Benchmark
+
+Published in : Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
+
+Description : 'Several Benchmarks for the Email Time Processing Estimator'
+
+Keywords : 'Machine Learning (ML), NLP, Textual Analysis'
+
+
+Author : Marvin Gauer
+
+Submitted : Marvin Gauer
+
+Datafile : 
+
+Input:
+  - Training_Set.xlsx : Training data incl. the true category respectively label  
+
+Output: 
+  - Prints the micro averaged f1 score of the corresponding benchmark
