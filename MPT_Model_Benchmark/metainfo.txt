@@ -1,0 +1,20 @@
+Name of QuantLet : Benchmark
+
+Published in : Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
+
+Description : 'Companies providing financial services (e.g. Brokerage) face a tremendous amountof email enquiries with diverse complexity. Therefore companies providing such ser-vices should address the costs corresponding to these cost-intensive email enquiries on a per customer level. Therefore, we train a model that automatically estimate the time to process incoming email enquiries in customer supportdepartments of financial institutions. '
+
+Keywords : 'Machine Learning (ML), NLP, Textual Analysis, Word Embeddings, SIF Embedding, FastText, Model Performance Benchmark'
+
+
+Author : Marvin Gauer
+
+Submitted : Marvin Gauer
+
+Datafile : 
+
+Input:
+  - Training_Set.xlsx : Training data incl. the true category respectively label  
+
+Output: 
+  - Prints the micro averaged f1 score of the corresponding benchmark
