@@ -1,4 +1,4 @@
-Name of QuantLet : Fast_Text_Visualization_Example
+Name of QuantLet : MPT_Fast_Text_Visualization_Example
 
 Published in : Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
 
