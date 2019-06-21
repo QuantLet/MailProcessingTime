@@ -11,4 +11,4 @@ Author : Marvin Gauer
 Submitted : Marvin Gauer
 
 Output: 
-  - 3D GIF
+  - Fast_Text_Visualization_Example_GIF.gif
