@@ -1,4 +1,4 @@
-Name of QuantLet : Benchmark
+Name of QuantLet : MPT_Model_Benchmark
 
 Published in : Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
 
