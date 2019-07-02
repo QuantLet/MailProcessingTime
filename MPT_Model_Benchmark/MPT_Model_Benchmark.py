@@ -1,3 +1,11 @@
+import os
+import sys
+for p in ['numpy','pandas','xlrd', 'XlsxWriter', 'scikit-learn']:
+    if not p in sys.modules:
+        print('Install {}'.format(p))
+        pip = lambda: os.system('pip install {p}'.format(p=p))
+        pip()
+
 from sklearn.dummy import DummyClassifier
 import pandas as pd
 from numpy.random import choice
