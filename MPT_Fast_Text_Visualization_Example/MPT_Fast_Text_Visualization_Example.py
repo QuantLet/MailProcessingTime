@@ -1,3 +1,11 @@
+import os
+import sys
+for p in ['numpy','pandas','gensim','scikit-learn','sh','matplotlib', 'xlrd', 'XlsxWriter','urllib']:
+    if not p in sys.modules:
+        print('Install {}'.format(p))
+        pip = lambda: os.system('pip install {p}'.format(p=p))
+        pip()
+
 from gensim.models import FastText
 from sklearn.decomposition import PCA
 from matplotlib import pyplot
@@ -5,7 +13,6 @@ from mpl_toolkits.mplot3d.proj3d import proj_transform
 from matplotlib.text import Annotation
 from mpl_toolkits.mplot3d.art3d import Line3DCollection
 import numpy as np
-import os
 import urllib.request
 from sh import gunzip
 
