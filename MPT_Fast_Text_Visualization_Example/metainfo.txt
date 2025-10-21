@@ -8,7 +8,7 @@ Keywords : 'Machine Learning (ML), NLP, Textual Analysis, Word Embeddings, SIF E
 
 Author : Marvin Gauer
 
-Submitted : Marvin Gauer
+Submitted : 21.06.2019
 
 Output: 
   - Fast_Text_Visualization_Example_GIF.gif
