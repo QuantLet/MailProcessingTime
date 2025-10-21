@@ -9,9 +9,7 @@ Keywords : 'Machine Learning (ML), NLP, Textual Analysis, Word Embeddings, SIF E
 
 Author : Marvin Gauer
 
-Submitted : Marvin Gauer
-
-Datafile : 
+Submitted : 21.06.2019
 
 Input:
   - Training_Set.xlsx : Training data incl. the true category respectively label  
