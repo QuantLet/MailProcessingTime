@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: MPT_Model_Benchmark
 
-Published in: Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry
+Published in: Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
 
 Description: Random Benchmarks to evaluate the trained Email Processing Time model. 3 different Benchmarks were applied. A stratified random classifier, a classifier always selecting the most frequent class and a classifier selecting the two most frequent classes based on their probabilities.
 
@@ -15,9 +15,7 @@ Keywords: Machine Learning (ML), NLP, Textual Analysis, Word Embeddings, SIF Emb
 
 Author: Marvin Gauer
 
-Submitted: Marvin Gauer
-
-Datafile: 
+Submitted: 21.06.2019
 
 Input: 
 - Training_Set.xlsx : Training data incl. the true category respectively label
