@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: MPT_Fast_Text_Visualization_Example
 
-Published in: Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry
+Published in: Masterthesis 'Estimation of Email Processing Time in the Financial Services Industry'
 
 Description: Visualization Example for the Fast Text Word Embeddings. Pretrained FastText word embeddings vectors in German language are used. Dimensionality reduction fromm 300 to 3 via PCA. One sees, that the semantics are nicely extracted and capitals respectively countries are positioned close to each other and could be seperated along the second principal component.
 
@@ -15,7 +15,7 @@ Keywords: Machine Learning (ML), NLP, Textual Analysis, Word Embeddings, SIF Emb
 
 Author: Marvin Gauer
 
-Submitted: Marvin Gauer
+Submitted: 21.06.2019
 
 Output: 
 - Fast_Text_Visualization_Example_GIF.gif
